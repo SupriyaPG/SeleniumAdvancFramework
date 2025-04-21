@@ -1,6 +1,5 @@
 package com.spgtesting.pages.pageObjectModel.appvwo;
 
-public class FreeTrialPage {
-
+public class ForgatePassword {
 
 }
