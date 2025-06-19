@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class TestVWOLogin_02_PropertyReader_DriverManager_POM {
+public class       TestVWOLogin_02_PropertyReader_DriverManager_POM {
 
     @Test
     @Owner("Supriya G ")
